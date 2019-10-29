@@ -1,5 +1,7 @@
 # omdb-vue-component
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2c87556c-e06b-4df8-9e6a-610077996297/deploy-status)](https://app.netlify.com/sites/omdb-vue-component/deploys)
+
 [Open Movie Database](http://www.omdbapi.com) Component for Vue.js
 
 ![](https://user-images.githubusercontent.com/2070277/67768583-e90a8d80-fa63-11e9-93fc-a946d62e7e66.png)

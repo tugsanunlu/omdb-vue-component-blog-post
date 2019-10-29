@@ -27,7 +27,7 @@ export default {
   },
   methods: {
     getFilm() {
-      fetch(`http://www.omdbapi.com/?i=${this.id}&apikey=${this.apiKey}`).then(
+      fetch(`https://www.omdbapi.com/?i=${this.id}&apikey=${this.apiKey}`).then(
         async response => {
           this.film = await response.json();
           this.isLoader = false;
